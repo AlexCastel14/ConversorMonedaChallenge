@@ -11,3 +11,5 @@ This is a console aplication where you can convert some currencies into anothers
 6) Peso colombiano ==> Dolar
 
 In this aplication I'm using https://www.exchangerate-api.com/ to get the conversion rates and Gson to deserialize JSON responses from the API.
+
+This application will be implemented later in an UI aplication.
