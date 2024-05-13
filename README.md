@@ -1,8 +1,11 @@
-Challenge Conversor de Monedas
+<h1 align="center"> Challenge Conversor de Monedas </h1>
+
+![Static Badge](https://img.shields.io/badge/Status-Under%20Development-green)
+![Static Badge](https://img.shields.io/badge/Technology-Java-blue)
 
 ![challengeImage](https://github.com/AlexCastel14/ConversorMonedaChallenge/assets/53499354/1f74396a-5c1c-4d2c-b2ea-217a020672e5)
 
-This is a console aplication where you can convert some currencies into anothers. The aplication can convert the following currencies.
+This is a console aplication where you can convert some currencies into anothers. The aplication can convert the following currencies:
 1) Dolar ==> Peso argentino
 2) Peso argentino ==> Dolar
 3) Dolar ==> Real brasileño
